@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,8 +8,8 @@
     <style>
         /* Custom Blue & White Theme */
         :root {
-            --primary-blue: #1a4a72;
-            --secondary-blue: #3498db;
+            --primary-blue: #0118D8;
+            --yellow: #FFEB00;
             --white: #ffffff;
         }
 
