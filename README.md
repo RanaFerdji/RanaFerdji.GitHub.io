@@ -170,7 +170,7 @@
     <div class="container">
         <section id="about" class="about">
             <h2>About SkillBridge Academy</h2>
-            <p>We empower aspiring freelancers with practical skills in content writing, graphic design, web development, and digital marketing. Our courses are designed by top freelancers with 10+ years of experience.</p>
+            <p>We empower aspiring freelancers with practical skills in content writing, graphic design, web development, and digital marketing. Top freelancers design our courses with 10+ years of experience.</p>
         </section>
 
         <section id="courses" class="courses">
